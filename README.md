@@ -16,14 +16,14 @@ nothing, and others a series of values.
 For a language-agnostic overview of Mustache's template syntax, see the
 `mustache(5)` [manpage](http://mustache.github.com/mustache.5.html).
 
-## Where to use mustache.js?
+## 什么地方使用mustache.js?
 
-You can use mustache.js to render templates in many various scenarios where you
-can use JavaScript. For example, you can render templates in a browser,
-server-side using [node](http://nodejs.org/), in [CouchDB](http://couchdb.apache.org/)
-views, or in almost any other environment where you can use JavaScript.
+你可以使用mustache.js来渲染一个模板在很多的场景下,只要你能使用javascript.
+比如,你可以在浏览器端使用它,或者在服务器端,使用[node](http://nodejs.org/),
+或者在[CouchDB](http://couchdb.apache.org/)视图中,或者就是说只要能够使用javascript
+的地方就能够使用它.
 
-## Who uses mustache.js?
+## 谁在用mustache.js?
 
 An updated list of mustache.js users is kept [on the Github wiki](http://wiki.github.com/janl/mustache.js/beard-competition).
 Add yourself or your company if you use mustache.js!
